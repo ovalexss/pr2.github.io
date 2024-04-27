@@ -8,7 +8,7 @@
 @font-face {
 	font-family: 'suis'; 
 	src: local('suis'),
-		url(/fonts/SuisseIntl-Regular.ttf); 
+		url(./fonts/SuisseIntl-Regular); 
 }
 
 body{
